@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
     </div>
 
     <p>Saurav Bhattarai
-Student at St . Lawrence College of Higher Education
+<p>Student at St . Lawrence College of Higher Education
 St . Lawrence College of Higher Education 
       Lions Clubs International
 Bāgmatī, Nepal
@@ -35,21 +35,8 @@ Student, Advisor, Teacher, Diplomat and Teaching Assistant roles
 
 
 
-Add featured
-Add featured
-Private to you
-7
-Who viewed your profile
-19
-Search appearances
-Activity
-209 followers
 
-Introduction to Cybersecurity Tools & Cyber Attacks was issued by Coursera to Saurav Bhattarai.
-You liked this
-See all
-Experience
-Add experience
+Introduction to Cybersecurity Tools & Cyber Attacks was issued by Coursera to Saurav 
 
 District 325A member
 Lions Clubs International
