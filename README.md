@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 5px;
 }
 </style>
-<body>
+<body bgcolor='black'>
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
